@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accessoBDD", "accessoBDD\accessoBDD.csproj", "{13278A01-C416-43DE-9958-AE544A5B5FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{6F15F05C-92FF-445A-A9AB-2AB54D512C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{C507EB51-882F-40DE-8670-8EC979D4D1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13278A01-C416-43DE-9958-AE544A5B5FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13278A01-C416-43DE-9958-AE544A5B5FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13278A01-C416-43DE-9958-AE544A5B5FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13278A01-C416-43DE-9958-AE544A5B5FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F15F05C-92FF-445A-A9AB-2AB54D512C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F15F05C-92FF-445A-A9AB-2AB54D512C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F15F05C-92FF-445A-A9AB-2AB54D512C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F15F05C-92FF-445A-A9AB-2AB54D512C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C507EB51-882F-40DE-8670-8EC979D4D1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C507EB51-882F-40DE-8670-8EC979D4D1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C507EB51-882F-40DE-8670-8EC979D4D1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C507EB51-882F-40DE-8670-8EC979D4D1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8437A1A9-4CD4-44DF-B68D-8403E643AAA6}
+	EndGlobalSection
+EndGlobal
