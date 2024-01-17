@@ -262,9 +262,9 @@ namespace Cliente {
 
         static void PrintDados(DataTable dataTable) {
             // Imprimir encabezados de columnas
-            Console.WriteLine("\n----------------------------------\n" +
-                                "|              DADOS              |\n" +
-                                "==================================\n");
+            Console.WriteLine("\n------------------------------------------\n" +
+                                "|             LISTA DE DADOS              |\n" +
+                                "==========================================\n");
             Console.WriteLine(String.Format("|{0,-5}|{1,-20}|{2,-5}|", dataTable.Columns[0].ColumnName, dataTable.Columns[1].ColumnName, dataTable.Columns[2].ColumnName));
 
             // Imprimir datos de filas
